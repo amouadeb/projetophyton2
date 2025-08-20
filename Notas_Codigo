@@ -1,0 +1,17 @@
+#- deff calculate_demographic_data(print_data=True) imprime resultados necessarios do projeto
+#- forr c, df (c) garante que sejam colunas numericas, e rejeita texto
+#- df = df (reset) apaga linhas vazias/perdidas dentro do codigo
+//////////////////////////////////////////////////////////
+#race_count 
+#average age man
+#percantage bachelors
+#(auto explicativo)
+
+#df em higer e lower education separa de acordo com filtro bachelors, masters, doctorate education
+#unstack transforma as classes separadas por salario em colunas 
+#idxmax pega maior pais de proporção com >50k
+#round=arredondar casa decimal
+
+#india ocupation filtra quem é da india e ganha mais de 50k ao memso tempo.
+
+
